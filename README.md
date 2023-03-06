@@ -9,11 +9,11 @@ A command-line tool to extract source files based on a provided source map file.
 # Installation
 ## Using npm:
 ```bash
-npm install -g sourcemap-extractor
+npm install -g @uppo/sourcemap-extractor
 ```
 ## Using yarn:
 ```bash
-yarn global add sourcemap-extractor
+yarn global add @uppo/sourcemap-extractor
 ```
 
 # Usage
