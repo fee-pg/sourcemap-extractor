@@ -1,0 +1,15 @@
+# Typescript source files and tests
+*.ts
+*.tsx
+*.spec.ts
+*.spec.tsx
+
+# NPM files
+package-lock.json
+*.log
+*.tgz
+
+# Folders
+node_modules/
+coverage/
+test/

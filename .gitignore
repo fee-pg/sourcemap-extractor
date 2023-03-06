@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+
+# Compiled output
+dist
+build
+out
+lib
+*.js
+*.map
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Typescript related artifacts
+*.d.ts
+*-tsconfig.json
+*-tslint.json
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Test results
+test-results
+
+# Others
+*.class
+.env
+.DS_Store
+Thumbs.db
